@@ -4,6 +4,29 @@
 
 ---
 
+## ⭐ Highlights
+- 🚀 Built production-ready projects using modern stacks  
+- ☁️ Hands-on experience with cloud platforms (AWS/GCP/Azure)  
+- 🛠️ Strong focus on clean architecture & scalable systems  
+- 📚 Always learning: System Design, Kubernetes, Distributed Systems
+
+---
+
+## 🎯 Current Focus
+- Deepening: Go and systems-level design for high-scale environments  
+- Driving: Robust service architectures with mature CI/CD, monitoring, and SRE principles  
+- Investigating: Distributed coordination, resilience patterns, and performance engineering
+
+---
+
+## 🎉 Fun Projects
+- 🤖 Automation scripts that save time  
+- 🧠 ML experiments & notebooks  
+- 🔧 CLI tools for developers  
+- 🎮 Small games & creative coding  
+
+---
+
 ## 🖱️ I'm currently working on
 
 **SENTINEL** — AI quota monitoring dashboard (React frontend done, Spring Boot backend next). Production-grade monitoring for LLM usage at scale with hacker-aesthetic terminal UI.
@@ -64,6 +87,11 @@ Soft background music and a strong cup of coffee is all I need to solve complex 
 **Lead Solution Architect** — Designing system evolution, mentoring teams, making architectural decisions that multiply velocity. Building depth in production systems, infrastructure, and security patterns.
 
 **Signal:** Depth over breadth. Shipping over theorizing. Teaching to lead. Impact over commits.
+
+## 📬 Contact Me
+- LinkedIn: https://github.com/sumitsr/sumitsr
+- Email: sumit.srivastava2805@gmail.com
+- Portfolio:  
 
 ---
 
