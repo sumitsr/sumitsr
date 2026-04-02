@@ -89,7 +89,7 @@ Soft background music and a strong cup of coffee is all I need to solve complex 
 **Signal:** Depth over breadth. Shipping over theorizing. Teaching to lead. Impact over commits.
 
 ## 📬 Contact Me
-- LinkedIn: https://github.com/sumitsr/sumitsr
+- LinkedIn: https://www.linkedin.com/in/sumit1
 - Email: sumit.srivastava2805@gmail.com
 - Portfolio:  
 
